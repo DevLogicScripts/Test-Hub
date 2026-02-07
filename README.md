@@ -1,4 +1,3 @@
-# Universal aimlock script
 -- Coloque este LocalScript dentro de StarterPlayerScripts ou StarterGui
 
 local Players = game:GetService("Players")
